@@ -35,7 +35,7 @@ The CPU is implemented in Verilog to process the instructions and perform the ar
 
 ### 3. **Assembly Program**  
 An assembly program is written to implement the expression `Y = A + B * C - 5 / D + E + 1`. The assembly instructions for the program are as follows:
-
+LOAD [23] ADD [24] ADD 1 STORE [25] LOAD [21] MUL [22] SUB 5 ADD [20] DIV [25] STORE [25]
 
 The assembly code is then converted into machine code and stored starting at address 0 in memory.
 
