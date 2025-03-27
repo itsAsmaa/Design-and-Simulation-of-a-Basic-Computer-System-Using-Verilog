@@ -62,11 +62,5 @@ The Verilog code files provided are the designs for the memory and CPU. Please r
 - The result stored in memory address 12 is correct.
 - The final computation for `Y = A + B * C - 5 / D + E + 1` results in Y = 3.
 
-## Contact
-
-For any questions or concerns, please contact:
-
-- **Name**: Asmaa Abed Al-Rahman Fares
-- **Student ID**: 1210084
 
 
